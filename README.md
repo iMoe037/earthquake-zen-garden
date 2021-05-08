@@ -1,5 +1,5 @@
 # earthquake-zen-garden
 
-##Instructions
+## Instructions
 npm install
 npm start
